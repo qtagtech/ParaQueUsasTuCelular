@@ -1,9 +1,9 @@
-<!DOCTYPE gsp>
-<gsp xmlns="http://www.w3.org/1999/xgsp" dir="ltr" lang="en-US">
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="es-CO">
 <head>
 <meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/gsp; charset=UTF-8" />
-<title>Right Now! Full Background</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>¿Para Qué Usas Tu Celular?</title>
 <meta name='robots' content='index,follow' />
 <link rel="stylesheet/less" type="text/css" href="style.less">
 <link rel='stylesheet' id='contentFont-css'  href='http://fonts.googleapis.com/css?family=PT+Sans:regular&amp;subset=cyrillic,latin' type='text/css' media='all' />
@@ -232,26 +232,26 @@ var bgStretch = true;
 					<ul class="sub-menu">
 						<li id="menu-item-21"><a href="#!${createLink([uri: '/about'])}"><span class="title">COMPANY</span></a></li>
 						<li id="menu-item-22"><a href="#!${createLink([uri: '/columns'])}"><span class="title">4 COLUMNS</span></a></li>
-						<li id="menu-item-23"><a href="#!${createLink([uri: '/typepography'])}"><span class="title">TYPOGRAPHY</span></a></li>
+						<li id="menu-item-23"><a href="#!${createLink([uri: '/typography'])}"><span class="title">TYPOGRAPHY</span></a></li>
 						<li id="menu-item-24"><a href="#!${createLink([uri: '/quotes'])}"><span class="title">QUOTES</span></a></li>
 						<li id="menu-item-25"><a href="#!${createLink([uri: '/other'])}"><span class="title">OTHERS</span></a></li>
 					</ul>
 				</li>
 				<li id="menu-item-3">
-					<a href="#!blog.gsp"><span class="title">BLOG</span></a>
+					<a href="#!${createLink([uri: '/blog'])}"><span class="title">BLOG</span></a>
 				</li>
 				<li id="menu-item-4">
 					<a href="#!#"><span class="title">PORTFOLIO</span></a>
 					<ul class="sub-menu">
-						<li id="menu-item-41"><a href="#!portfolio.gsp"><span class="title">TWO COLUMNS</span></a></li>
-						<li id="menu-item-42"><a href="#!portfolio4.gsp"><span class="title">FOUR COLUMNS FILTER</span></a></li>
-						<li id="menu-item-43"><a href="#!portfolioVideo.gsp"><span class="title">VIDEO PORTFOLIO</span></a></li>
+						<li id="menu-item-41"><a href="#!${createLink([uri: '/portfolio'])}"><span class="title">TWO COLUMNS</span></a></li>
+						<li id="menu-item-42"><a href="#!${createLink([uri: '/portfolio4'])}"><span class="title">FOUR COLUMNS FILTER</span></a></li>
+						<li id="menu-item-43"><a href="#!${createLink([uri: '/portfolioVideo'])}"><span class="title">VIDEO PORTFOLIO</span></a></li>
 					</ul>
 				</li>
 				<li id="menu-item-5">
 					<a href="http://www.themeforest.net" target="_blank"><span class="title">EXTERNAL LINK</span></a>
 				</li>
-				<li id="menu-item-6"><a href="#!contact.gsp"><span class="title">CONTACT</span></a></li>
+				<li id="menu-item-6"><a href="#!${createLink([uri: '/contact'])}"><span class="title">CONTACT</span></a></li>
 			</ul>
 			</div>
 		</div>
@@ -373,4 +373,4 @@ var bgStretch = true;
 <div id="REF_ColorSecond"></div>
 <!-- END:  -->
 </body>
-</gsp>
+</html>
