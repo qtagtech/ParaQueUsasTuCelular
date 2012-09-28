@@ -230,11 +230,11 @@ var bgStretch = true;
 
 					<!-- When using submenu ul tag must include class="sub-menu" -->
 					<ul class="sub-menu">
-						<li id="menu-item-21"><a href="#!${uri("/about.gsp")}"><span class="title">COMPANY</span></a></li>
-						<li id="menu-item-22"><a href="#!columns.gsp"><span class="title">4 COLUMNS</span></a></li>
-						<li id="menu-item-23"><a href="#!typography.gsp"><span class="title">TYPOGRAPHY</span></a></li>
-						<li id="menu-item-24"><a href="#!quotes.gsp"><span class="title">QUOTES</span></a></li>
-						<li id="menu-item-25"><a href="#!other.gsp"><span class="title">OTHERS</span></a></li>
+						<li id="menu-item-21"><a href="#!${createLink([uri: '/about'])}"><span class="title">COMPANY</span></a></li>
+						<li id="menu-item-22"><a href="#!${createLink([uri: '/columns'])}"><span class="title">4 COLUMNS</span></a></li>
+						<li id="menu-item-23"><a href="#!${createLink([uri: '/typepography'])}"><span class="title">TYPOGRAPHY</span></a></li>
+						<li id="menu-item-24"><a href="#!${createLink([uri: '/quotes'])}"><span class="title">QUOTES</span></a></li>
+						<li id="menu-item-25"><a href="#!${createLink([uri: '/other'])}"><span class="title">OTHERS</span></a></li>
 					</ul>
 				</li>
 				<li id="menu-item-3">
