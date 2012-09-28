@@ -76,9 +76,9 @@ var bgStretch = true;
 	-->
 	<ul id="bgImages">
 		<li>
-			<a href="images/background/bg1.jpg"><img class="thumb" src="images/background/bg1_th.jpg" alt="" /></a>
-			<h3>GABRIELLA DAVIS</h3>
-			<p>Mauris id quam mi, nec dictum mauris. Morbi non eros quis erat facilisis scelerisque at in sapien. Etiam amet.</p>
+			<a href="images/background/soldados.jpg"><img class="thumb" src="images/background/soldados_th.jpg" alt="" /></a>
+			<h3>¿PARA QUÉ?</h3>
+			<p>¿Para solo hablar por WhatsApp? ¡No Puede Ser Soldado!</p>
 		</li>
 		<!-- BEGIN: Background Element -->
 		<li>
@@ -97,121 +97,29 @@ var bgStretch = true;
 				<a href="/videos/myvideo.flv?width=711&height=400"> You must define Video path and width & height parameters.
 				Supported Formats; flv, f4v, m4v, mp4, mov
 			-->
-			<a href="http://vimeo.com/18303923?width=400&height=225"><img class="thumb" src="images/background/bg1_th.jpg" alt="" /></a>
+			<a href="http://http://vimeo.com/39363057?width=400&height=225"><img class="thumb" src="images/background/nest5_th.jpg" alt="" /></a>
 
 			<!-- BEGIN: description; h3 and p tags are optional -->
-			<h3>BIANCA JOHNSON</h3>
-			<p>Aliquam tristique eleifend ante, id tincidunt nunc egestas iaculis. Maecenas a enim orci, vel gravida posuere.</p>
+			<h3>Nest5</h3>
+			<p>Una Historia de Amor Entre Las Marcas y Sus Clientes</p>
 			<!-- END: description -->
 		</li>
 		<!-- END: Background Element -->
-		<li>			
-			<a href="http://youtu.be/zTtpFmgBmTI?width=560&height=315"><img class="thumb" src="images/background/bg1_th.jpg" alt="" /></a>
-			<h3>CLAIRE WILLIAMS</h3>
-			<p>Vestibulum vitae condimentum dolor. Aenean fermentum, tellus at fermentum vulputate, velit est vulputate amet.</p>
-		</li>
-		<li>
-			<a href="images/background/bg2.jpg"><img class="thumb" src="images/background/bg2_th.jpg" alt="" /></a>
-			<h3>EMMA JONES</h3>
-			<p>Donec pellentesque faucibus facilisis. Etiam ullamcorper, felis sed tincidunt pellentesque, libero enim metus.</p>
-		</li>
-		<li>
-			<a href="images/background/bg3.jpg"><img class="thumb" src="images/background/bg3_th.jpg" alt="" /></a>
-			<h3>FABIANA BROWN</h3>
-			<p>Integer sit amet neque lacus, nec vehicula erat. Aliquam ac sem ut magna mattis tristique. Duis lorem posuere.</p>
-		</li>
-		<li>
-			<a href="images/background/bg4.jpg"><img class="thumb" src="images/background/bg4_th.jpg" alt="" /></a>
-			<h3>GABRIELLA DAVIS</h3>
-			<p>Mauris id quam mi, nec dictum mauris. Morbi non eros quis erat facilisis scelerisque at in sapien. Etiam amet.</p>
-		</li>
-		<li>
-			<a href="images/background/bg5.jpg"><img class="thumb" src="images/background/bg5_th.jpg" alt="" /></a>
-			<h3>IOLA MILLER</h3>
-			<p>Morbi ligula massa, ornare eu venenatis eget, porttitor eget dui. Duis fringilla sapien nec est interdum amet.</p>
-		</li>
-		<li>
-			<a href="images/background/bg6.jpg"><img class="thumb" src="images/background/bg6_th.jpg" alt="" /></a>
-			<h3>MARIA WILSON</h3>
-			<p>Suspendisse bibendum, erat et porttitor ultricies, nibh arcu molestie ligula, a lobortis leo ipsum sed nullam.</p>
-		</li>
-		<li>
-			<a href="images/background/bg7.jpg"><img class="thumb" src="images/background/bg7_th.jpg" alt="" /></a>
-			<h3>GILLIAN MOORE</h3>
-			<p>Etiam sit amet ante tortor, ut adipiscing lacus. Curabitur sapien tellus, varius vel posuere quis turpis duis.</p>
-		</li>
-		<li>
-			<a href="images/background/bg8.jpg"><img class="thumb" src="images/background/bg8_th.jpg" alt="" /></a>
-			<h3>CAMERON ANDERSON</h3>
-			<p>Aliquam volutpat pulvinar eros sit amet ultricies. Vivamus tincidunt suscipit sodales. Donec dictum, tortora.</p>
-		</li>
-		<li>
-			<a href="images/background/bg9.jpg"><img class="thumb" src="images/background/bg9_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg10.jpg"><img class="thumb" src="images/background/bg10_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg11.jpg"><img class="thumb" src="images/background/bg11_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg12.jpg"><img class="thumb" src="images/background/bg12_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg13.jpg"><img class="thumb" src="images/background/bg13_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg14.jpg"><img class="thumb" src="images/background/bg14_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg15.jpg"><img class="thumb" src="images/background/bg15_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg16.jpg"><img class="thumb" src="images/background/bg16_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg17.jpg"><img class="thumb" src="images/background/bg17_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg18.jpg"><img class="thumb" src="images/background/bg18_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg19.jpg"><img class="thumb" src="images/background/bg19_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
-        <li>
-			<a href="images/background/bg20.jpg"><img class="thumb" src="images/background/bg20_th.jpg" alt="" /></a>
-			<h3>ARIANNA SMITH</h3>
-			<p>Mauris viverra tincidunt est, a bibendum turpis hendrerit eu. Aenean ac elit dolor. Donec commodo, enim metus.</p>
-		</li>
+
+
+
+
+
+
+
+
 	</ul>
 	
 	<!-- BEGIN: Main Menu -->
 	<div id="menu-container">
 		<!-- BEGIN: Logo -->
 		<div id="logo">
-			<img src="images/rightnow_logo.png" title="Right Now" />
+			<img src="images/mainLogo.png" title="¿Para Qué Putas Usas Tu Celular?" />
 		</div>
 		<div class="clearfix"></div>
 		<!--END: Logo -->
@@ -223,35 +131,39 @@ var bgStretch = true;
 			<div class="menu-header">
 			<ul id="menu-main-menu" class="menu">
 				<li id="menu-item-1">
-					<a href="#!/"><span class="title">HOME</span></a>
+					<a href="#!/"><span class="title">INICIO</span></a>
 				</li>
 				<li id="menu-item-2">
-					<a href="#!#"><span class="title">ABOUT</span></a>
+					<a href="#!#"><span class="title">¿QUÉ ES ESTO?</span></a>
 
 					<!-- When using submenu ul tag must include class="sub-menu" -->
 					<ul class="sub-menu">
-						<li id="menu-item-21"><a href="#!${createLink([uri: '/about'])}"><span class="title">COMPANY</span></a></li>
-						<li id="menu-item-22"><a href="#!${createLink([uri: '/columns'])}"><span class="title">4 COLUMNS</span></a></li>
-						<li id="menu-item-23"><a href="#!${createLink([uri: '/typography'])}"><span class="title">TYPOGRAPHY</span></a></li>
-						<li id="menu-item-24"><a href="#!${createLink([uri: '/quotes'])}"><span class="title">QUOTES</span></a></li>
-						<li id="menu-item-25"><a href="#!${createLink([uri: '/other'])}"><span class="title">OTHERS</span></a></li>
+						<li id="menu-item-21"><a href="#!${createLink([uri: '/about'])}"><span class="title">La Campaña</span></a></li>
+						<li id="menu-item-22"><a href="#!${createLink([uri: '/columns'])}"><span class="title">¿Quiénes Somos?</span></a></li>
+						<li id="menu-item-23"><a href="#!${createLink([uri: '/typography'])}"><span class="title">¿Qué Puedes Hacer?</span></a></li>
+						%{--<li id="menu-item-24"><a href="#!${createLink([uri: '/quotes'])}"><span class="title">QUOTES</span></a></li>
+						<li id="menu-item-25"><a href="#!${createLink([uri: '/other'])}"><span class="title">OTHERS</span></a></li>--}%
 					</ul>
 				</li>
 				<li id="menu-item-3">
-					<a href="#!${createLink([uri: '/blog'])}"><span class="title">BLOG</span></a>
+					<a href="#!${createLink([uri: '/blog'])}"><span class="title">BLOG QUE PUTAS</span></a>
 				</li>
 				<li id="menu-item-4">
-					<a href="#!#"><span class="title">PORTFOLIO</span></a>
-					<ul class="sub-menu">
+					<a href="#!#"><span class="title">MATERIAL</span></a>
+					%{--<ul class="sub-menu">
 						<li id="menu-item-41"><a href="#!${createLink([uri: '/portfolio'])}"><span class="title">TWO COLUMNS</span></a></li>
 						<li id="menu-item-42"><a href="#!${createLink([uri: '/portfolio4'])}"><span class="title">FOUR COLUMNS FILTER</span></a></li>
 						<li id="menu-item-43"><a href="#!${createLink([uri: '/portfolioVideo'])}"><span class="title">VIDEO PORTFOLIO</span></a></li>
-					</ul>
+					</ul>--}%
 				</li>
 				<li id="menu-item-5">
-					<a href="http://www.themeforest.net" target="_blank"><span class="title">EXTERNAL LINK</span></a>
+					<a href="#!#" ><span class="title">ASOCIADOS</span></a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-44"><a href="http://www.facebook.com/pages/Para-qu%C3%A9-putas-usas-tu-celular/355490994538886" target="_blank"><span class="title">Usuarios Facebook</span></a></li>
+
+                    </ul>
 				</li>
-				<li id="menu-item-6"><a href="#!${createLink([uri: '/contact'])}"><span class="title">CONTACT</span></a></li>
+				<li id="menu-item-6"><a href="#!${createLink([uri: '/contact'])}"><span class="title">CONTACTO</span></a></li>
 			</ul>
 			</div>
 		</div>
@@ -266,17 +178,17 @@ var bgStretch = true;
 		<!-- BEGIN: Share Buttons -->
 		<div id="share">
 			<ul>
-				<li><a class="btnCtrl tip fb" href="http://www.facebook.com/sharer.php?u=http://www.renklibeyaz.com/true" tip-text="Facebook"></a></li>
-				<li><a class="btnCtrl tip tw" href="http://twitter.com/home?status=Check out this Awesome Site - http://www.renklibeyaz.com/true" tip-text="Twitter"></a></li>
-				<li><a class="btnCtrl tip rss" href="http://www.renklibeyaz.com/true?feed=rss" tip-text="RSS"></a></li>
+				<li><a class="btnCtrl tip fb" href="http://www.facebook.com/sharer.php?u=http://www.paraqueusastucelular.com" tip-text="Facebook"></a></li>
+				<li><a class="btnCtrl tip tw" href="http://twitter.com/home?status=Check out this Awesome Site - http://www.paraqueusastucelular.com" tip-text="Twitter"></a></li>
+				<li><a class="btnCtrl tip rss" href="http://www.paraqueusastucelular.com/?feed=rss" tip-text="RSS"></a></li>
 			</ul>		
 		</div>
 		<!-- END: Share Buttons -->
-		<div id="footertext"> Copyright &copy; 2012 <span class="textlight">Right Now</span> Theme</div>
+		<div id="footertext">Campaña Publicitaria Solamente Válida en Colombia <span class="textlight">¿Para Qué Putas Usas Tu Celular?</span> 2012</div>
 		<div id="footeraudio">
-			<a class="btnCtrl tip soundicon" href="javascript:void(0);" tip-text="Mute Sound"></a>
-			<a class="btnCtrl tip soundmute" href="javascript:void(0);" tip-text="UnMute Sound"></a>
-			<a class="btnCtrl tip soundplaylist" href="javascript:void(0);" onclick="playListShow();" tip-text="UnMute Sound"></a>
+			<a class="btnCtrl tip soundicon" href="javascript:void(0);" tip-text="Silenciar Sonido"></a>
+			<a class="btnCtrl tip soundmute" href="javascript:void(0);" tip-text="Activar Sonido"></a>
+			<a class="btnCtrl tip soundplaylist" href="javascript:void(0);" onclick="playListShow();" tip-text="Activar Sonido"></a>
 		</div>
 	</div>
 	<!-- END: Footer -->
@@ -354,7 +266,7 @@ var bgStretch = true;
 		</div>
 		<!-- END: Audio List -->
 	</div>
-	<div id="playListCloseIcon">CLOSE</div>
+	<div id="playListCloseIcon">CERRAR</div>
 </div>
 <!-- END: Music Player -->
 
@@ -362,7 +274,7 @@ var bgStretch = true;
 <div id="bodyLoading">
 	<div id="loading">
 		<!-- You can change loading logo -->
-		<img src="images/logo.jpg" width="552" height="552" alt="Right Now" />
+		<img src="images/logo.png" width="554" height="796" alt="¿Para Qué Putas Usuas Tu Celular?" />
 	</div>
 </div>
 <!-- END: First Loading -->
