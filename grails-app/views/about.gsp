@@ -1,21 +1,23 @@
-<h1 class="caption">ABOUT US</h1>
+<h1 class="caption">¿Qué Es Esto?</h1>
 <div class="divider"></div>
 <img src="images/about.jpg" width="600" height="350" />
 
 <div class="divider"></div>
-<h4>OUR COMPANY</h4>
+<h4>Para que Pu*as Usas tu Celular</h4>
 <div class="divider" style="height:13px"></div>
-Nullam accumsan interdum quam sit amet venenatis. Suspendisse nulla quam, aliquam et viverra non, eleifend nec arcu. 
-Phasellus ultricies dolor varius lectus pharetra in facilisis felis sagittis. Sed sodales suscipit lacus et vulputate. 
-Phasellus consequat risus nec nisl iaculis varius. Nullam accumsan interdum quam sit amet venenatis. Suspendisse nulla quam.
+Para Que Pu*as Usas tu Celular es una campaña que busca que cada uno de los colombianos aprenda que un SmartPhone ¡No sirve solo para chatear y jugar a parte de llamar!
+Un Smartphone es la puerta a millones de cosas, en nuestro bolsillo.
+Nos permite comprar, buscar sitios, darnos consejos, recomendaciones de compras, y por supuesto encontrar los mejores beneficios cercanos a nosotros para ahorrar y comprar lo que más nos interese, a los mejores precios y en nuestras marcas favoritas.
+Esta es una campaña que busca que cada uno de nosotros sepa sacar provecho de millones de marcas que nos buscan a través del celular.
+Anímate a seguir leyendo y buscar todos los tips que te damos en este sitio y en la publicidad que veras en la calle y televisión.
 <hr class="seperator" /> 
 
 <div class="c1of3">
 	<!-- BEGIN: Person -->
-	<img src="images/person1.jpg" width="173" height="101" />
+	<img src="images/qrcode.png" width="173" height="173" />
 	<div class="personName">
-		<h3>JESSICA DOE</h3>
-		<span>Project Manager</span>
+		<h3>¡Escanea Mi Q...R!</h3>
+		<span>¿Sabes que significa esta imagen?</span>
 	</div>
 	<div class="personContact">
 		<a class="nolink tip personTwitter" target="_blank" href="http://www.twitter.com" rel="@JessicaDoe"/></a>

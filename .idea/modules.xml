@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ParaQueUsasTuCelular.iml" filepath="$PROJECT_DIR$/ParaQueUsasTuCelular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParaQueUsasTuCelular-grailsPlugins.iml" filepath="$PROJECT_DIR$/ParaQueUsasTuCelular-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
